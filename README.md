@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### I am currently a student in tenth grade (2nde) and I use a lot the python language.
 
 - 🌱 I’m currently learning **Django, C#, AI**
-- 🤔 I’m looking for help with AI
+- 🤔 I’m looking for help with **AI**
 - 📫 How to reach me: benjaraf006@gmail.com
 
 <h3 align="left">Connect with me:</h3>
