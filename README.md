@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![banner](banner.png)
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">I am a student in second grade and I use a lot the python language</h3>
+<h3 align="center">I am currently a student in second grade and I use a lot the python language</h3>
 
 - 🌱 I’m currently learning **Django, C#, AI**
 
