@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ![banner](banner.png)
-<h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">I am currently a student in tenth grade (2nde) and I use a lot the python language</h3>
+<!--<h1 align="center">Hi 👋, I'm Anthony</h1>
+<h3 align="center">I am currently a student in tenth grade (2nde) and I use a lot the python language</h3>-->
+# Hi 👋, I'm Anthony<br>
+### I am currently a student in tenth grade (2nde) and I use a lot the python language.
 
 - 🌱 I’m currently learning **Django, C#, AI**
+- 🤔 I’m looking for help with AI
+- 📫 How to reach me: benjaraf006@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
