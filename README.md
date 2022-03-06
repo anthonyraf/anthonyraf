@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](header.png)
-<!--![banner](welcome.png)-->
+
+![download](https://user-images.githubusercontent.com/100955619/156947386-fa9a0632-0f8e-45a5-a767-dd3577ca5464.png)
+
 
 <h2> About me </h2>
 
