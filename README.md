@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!--![banner](banner.png)-->
-![banner](welcome.png)
+<!--![banner](welcome.png)-->
 
 <h2> About me </h2>
 
