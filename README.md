@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
@@ -89,6 +89,4 @@ Here are some ideas to get you started:
 
 |[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)|[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
-
-
 
