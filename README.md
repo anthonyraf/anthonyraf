@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 <a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
 
+## Github Stats
 
 |[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=30&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
