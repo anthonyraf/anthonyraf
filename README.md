@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://www.hackerrank.com/benjaraf06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="benjaraf06" height="30" width="40"/></a>
+<br><br><br>
 
-</p>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"> </h2>
+<a href = 'https://www.github.com/anthonyraf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.hackerrank.com/benjaraf06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="benjaraf06" height="30" width="40"/></a>
+<br>
+
 
 
 <h2>Languages and tools I use &nbsp;&nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
