@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 |---|---|
 -->
 
-|[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)|[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)|
+|[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)|[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
