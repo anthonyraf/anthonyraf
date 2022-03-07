@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 
 
 ![download](https://user-images.githubusercontent.com/100955619/156947386-fa9a0632-0f8e-45a5-a767-dd3577ca5464.png)
+
+<br>
+
 <a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <br>
 
-```
-
-   My name is Anthony, I am 15 years old and 
-   I live in Madagascar. I started programming 
-   💻 a year and a half ago and I use python 
-   language a lot. I hope later to work in the
-   field of artificial intelligence.
-   
-```
+> <h3>My name is Anthony, I am 15 years old and
+> I live in Madagascar. I started programming 
+> 💻 a year and a half ago and I use python 
+> language a lot. I hope later to work in the
+> field of artificial intelligence.</h3>
+ 
 <br>
 <a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
 
