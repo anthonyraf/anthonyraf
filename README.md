@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <br>
 
-> <h3>My name is Anthony, I am 15 years old and
-> I live in Madagascar. I started programming 
-> 💻 a year and a half ago and I use python 
-> language a lot. I hope later to work in the
+> <h3>My name is Anthony, I am 15 years old and <br>
+> I live in Madagascar. I started programming <br>
+> 💻 a year and a half ago and I use python <br>
+> language a lot. I hope later to work in the <br>
 > field of artificial intelligence.</h3>
  
 <br>
