@@ -11,17 +11,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![github-education-200](https://user-images.githubusercontent.com/100955619/156950456-cf6c813d-af01-4d3b-ae0d-8bfca95d0656.png)
+
 -->
 
 
 ![download](https://user-images.githubusercontent.com/100955619/156947386-fa9a0632-0f8e-45a5-a767-dd3577ca5464.png)
 
+
 <br>
 
 <a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" src="https://user-images.githubusercontent.com/100955619/156950470-8be654dc-fb52-4eb4-91f6-ae4ce416b4e7.png#gh-light-mode-only" />
+<img width="50%" align="right" src="https://user-images.githubusercontent.com/100955619/156950680-b4f6025a-4ea8-4fca-8c79-6db11e5d2356.png#gh-dark-mode-only"
+<!--img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /-->
+
 
 <br>
 
