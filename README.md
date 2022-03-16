@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-> <h3>My name is Anthony, I am 15 years old and I live in Madagascar. I started programming 💻 a year and a half ago and I use python language a lot. I hope later to work in the field of artificial intelligence. </h3>
+<h3>My name is Anthony, I am 15 years old and I live in Madagascar. I started programming 💻 a year and a half ago and I use python language a lot. I hope later to work in the field of artificial intelligence. </h3>
  
 <br>
 <a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
