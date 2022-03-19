@@ -59,10 +59,11 @@ Here are some ideas to get you started:
 ## Github Stats:
 <br>
 
-<div>
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true">
-  </div>
-</div>
+<table>
+ <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true"></td>
+    
+   <td><img src="https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true"></td>
+ </tr>
+</table>
 
