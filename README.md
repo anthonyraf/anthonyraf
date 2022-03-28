@@ -75,4 +75,8 @@ I am a freshman of high school (2de) and I started programming a year and a half
 </p>
 <!-- // -->
 
+------
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=anthonyraf&repo=anthonyraf&countColor=%237B1E7A"/>
+</p>
