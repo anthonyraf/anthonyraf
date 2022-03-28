@@ -23,9 +23,32 @@
 
 
 ## About me 💫
-My name is Anthony Rafidison and I come from Madagascar. I am a freshman of high school (2de) and I started programming a year and a half ago
+<p>Welcome to my github page! My name is Anthony Rafidison and I come from Madagascar.<br>
+I am a freshman of high school (2de) and I started programming a year and a half ago.</p>
 
-## Github Stats 💻
+### Languages and tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?logo=Qt&label=Qt&message=5&style=for-the-badge&color=41CD52"/>
+  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github Pages-222222?style=for-the-badge&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft+Azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual+Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&logo=C+Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Circle CI-343434?style=for-the-badge&logo=CircleCI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
+  
+</p>
+
+### Github Stats 💻
 <!-- Stats -->
 ![](https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg)
