@@ -1,69 +1,82 @@
+<p align="center">
+  <a href="https://github.com/anthonyraf">
+    <img width=40% src="https://github.com/anthonyraf/anthonyraf/blob/test/intro-banner.png"/>
+  </a>
+</p>
 
-<!--
-**anthonyraf/anthonyraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Bio icons -->
+<p align='center'>
+  <a href='https://www.github.com/anthonyraf'> 
+    <img width='40' height='30' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+  </a> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...![github-education-200](https://user-images.githubusercontent.com/100955619/156950456-cf6c813d-af01-4d3b-ae0d-8bfca95d0656.png)
-
--->
-
-
-![download](https://user-images.githubusercontent.com/100955619/156947386-fa9a0632-0f8e-45a5-a767-dd3577ca5464.png)
-
-
-<br>
-
-<a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
-
-<img width="50%" align="right" src="https://user-images.githubusercontent.com/100955619/156950470-8be654dc-fb52-4eb4-91f6-ae4ce416b4e7.png#gh-light-mode-only" />
-<img width="50%" align="right" src="https://user-images.githubusercontent.com/100955619/156950680-b4f6025a-4ea8-4fca-8c79-6db11e5d2356.png#gh-dark-mode-only"
-<!--img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /-->
+  <a href="https://www.hackerrank.com/benjaraf06">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anthonyraf" height="30" width="40"/>
+  </a>
+  
+  <a href="#">
+    <img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
+  </a><br><br>
+  
+</p>
+<!-- // -->
 
 
-<br>
+## About me 💫
+<p>Welcome to my github page! My name is Anthony Rafidison and I come from Madagascar.<br>
+I am a freshman of high school (2de) and I started programming a year and a half ago.</p>
 
-<h3>My name is Anthony, I am 15 years old and I live in Madagascar. I started programming 💻 a year and a half ago and I use python language a lot. I hope later to work in the field of artificial intelligence. </h3>
- 
-<br>
-<a href="#"><img src="https://github.com/anthonyraf/anthonyraf/blob/main/neon-line.gif"/></a>
+### Languages and tools
 
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?logo=Qt&label=Qt&message=5&style=for-the-badge&color=41CD52"/>
+  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github Pages-222222?style=for-the-badge&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft+Azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual+Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&logo=C+Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Circle CI-343434?style=for-the-badge&logo=CircleCI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
+  
+</p>
 
-<br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"> </h2>
-<a href = 'https://www.github.com/anthonyraf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href="https://www.hackerrank.com/benjaraf06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="benjaraf06" height="30" width="40"/></a>
-
-<br>
-<br>
-
-
-<h2>Languages and tools&nbsp;&nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-
-## Github Stats:
-<br>
-
+### My Projects
 <table>
- <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true"></td>
-    
-   <td><img src="https://github-readme-stats.vercel.app/api?username=anthonyraf&count_private=true&theme=tokyonight&show_icons=true&border_radius=30&hide_border=true"></td>
- </tr>
+   <tr>
+       <th>School Projects</th>
+       <th>Personnal Projects</th>
+   </tr>
+   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable&theme=aura"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example&theme=aura"/></td>
+   </tr> 
+  
+   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe&theme=aura"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf&theme=aura"/></td>
+   </tr>      
 </table>
+  
+### Github Stats 💻
+<!-- Stats -->
+<p>
+  
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
+  
+</p>
+<!-- // -->
 
+------
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=anthonyraf&repo=anthonyraf&countColor=%237B1E7A"/>
+</p>
