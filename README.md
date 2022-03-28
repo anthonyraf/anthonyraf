@@ -1,4 +1,6 @@
-<h1 align="center">Hi I'm Anthony💥</h1>
+<a href="https://github.com/anthonyraf">
+  <img src="https://raw.githubusercontent.com/anthonyraf/anthonyraf/tree/test/intro-banner.png"/>
+</a>
 <h3 align="center">I am a 10th grade student in high school in Madagascar</h3>
 
 <!-- Bio icons -->
