@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anthonyraf">
-    <img width=40% src="https://github.com/anthonyraf/anthonyraf/intro-banner.png"/>
+    <img width=40% src="https://github.com/anthonyraf/anthonyraf/blob/main/intro-banner.png"/>
   </a>
 </p>
 
