@@ -48,8 +48,31 @@ I am a freshman of high school (2de) and I started programming a year and a half
   
 </p>
 
+### My Projects
+<table>
+   <tr>
+       <th>School Projects</th>
+       <th>Personnal Projects</th>
+   </tr>
+   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable&theme=aura"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example&theme=aura"/></td>
+   </tr> 
+  
+   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe&theme=aura"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf&theme=aura"/></td>
+   </tr>      
+</table>
+  
 ### Github Stats 💻
 <!-- Stats -->
-![](https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg)
+<p>
+  
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
+  
+</p>
 <!-- // -->
+
+
