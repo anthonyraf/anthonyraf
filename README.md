@@ -23,12 +23,6 @@
 
 ## Github Stats 💻
 <!-- Stats -->
-<details>
-  <summary>Here's my stats</summary>
-  
-  ![](https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg)
-  
-</details>
-
+![](https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg)
 <!-- // -->
