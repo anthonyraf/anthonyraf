@@ -46,8 +46,9 @@ I am a freshman of high school (2de) and I started programming a year and a half
   <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual+Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&logo=C+Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Circle CI-343434?style=for-the-badge&logo=CircleCI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/><br><br>
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
 </p>
 
 <h3 align='center'>My Projects</h3>
@@ -57,23 +58,21 @@ I am a freshman of high school (2de) and I started programming a year and a half
        <th>Personnal Projects</th>
    </tr>
    <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable&theme=aura"/></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example&theme=aura"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable&theme=tokyonight"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example&theme=tokyonight"/></td>
    </tr> 
   
    <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe&theme=aura"/></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf&theme=aura"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe&theme=tokyonight"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf&theme=tokyonight"/></td>
    </tr>      
 </table>
   
-<h3 align='center'> Github Stats 💻</h3>
+<h3 align='center'> Contributions Stats 💻</h3>
 <!-- Stats -->
 <p align='center'>
-  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00'/><br>
-  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
-  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
-  
+  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00'/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&bg_color=00C2DD00&color=70a4fc&line=70a4fc&point=5d4691"/>
 </p>
 <!-- // -->
 
