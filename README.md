@@ -47,7 +47,7 @@ I am a freshman of high school (2de) and I started programming a year and a half
   <img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&logo=C+Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Circle CI-343434?style=for-the-badge&logo=CircleCI&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/><br><br>
-  <!--<img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>-->
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
 </p>
 
