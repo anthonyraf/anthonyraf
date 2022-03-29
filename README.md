@@ -71,7 +71,7 @@ I am a freshman of high school (2de) and I started programming a year and a half
 <!-- Stats -->
 <p align='center'>
   <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00'/><br>
-  <!--<img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>-->
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
   
 </p>
