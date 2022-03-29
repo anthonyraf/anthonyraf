@@ -25,7 +25,7 @@
 
 
 <h2>About me 💫</h2>
-<p>Welcome to my github page!😼<br> My name is Anthony Rafidison and I come from Madagascar.
+<p>Welcome to my github page!😼<br> My name is Anthony Rafidison and I come from Madagascar.<br>
 I am a freshman of high school (2de) and I started programming a year and a half ago.</p>
 
 <details>
