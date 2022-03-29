@@ -1,8 +1,10 @@
+<!-- Banner -->
 <p align="center">
   <a href="https://github.com/anthonyraf">
     <img width=40% src="https://github.com/anthonyraf/anthonyraf/blob/main/intro-banner.png"/>
   </a>
 </p>
+<!-- // -->
 
 <!-- Bio icons -->
 <p align='center'>
@@ -67,8 +69,8 @@ I am a freshman of high school (2de) and I started programming a year and a half
   
 ### Github Stats 💻
 <!-- Stats -->
-<p>
-  
+<p align="center">
+  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
   
@@ -76,7 +78,8 @@ I am a freshman of high school (2de) and I started programming a year and a half
 <!-- // -->
 
 ------
-
+<!-- Views counter -->
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=anthonyraf&repo=anthonyraf&countColor=%237B1E7A"/>
 </p>
+<!-- // -->
