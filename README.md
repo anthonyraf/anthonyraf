@@ -39,14 +39,14 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
     <summary><strong>My School Projects 🏫</strong></summary><br>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>      
     </p>
   </details>
   
    <details>
       <summary><strong>My Personnal Projects 📁</strong></summary><br>
    <p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
    </p>
 </details>
