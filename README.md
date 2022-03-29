@@ -71,6 +71,7 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/><br>
 </p>
+ > PS: These are not my skills but the tools I am currently using and learning 
   
 <h2> Contributions Stats 📈</h2>
 
