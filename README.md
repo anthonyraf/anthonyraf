@@ -24,13 +24,13 @@
 <!-- // -->
 
 
-## About me 💫
-<p>Welcome to my github page! My name is Anthony Rafidison and I come from Madagascar.<br>
+<h2 align='center'>About me 💫</h2>
+<p align='center'>Welcome to my github page! My name is Anthony Rafidison and I come from Madagascar.<br>
 I am a freshman of high school (2de) and I started programming a year and a half ago.</p>
 
-### Languages and tools
+<h3 align='center'>Languages and tools</h3>
 
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -50,8 +50,8 @@ I am a freshman of high school (2de) and I started programming a year and a half
   
 </p>
 
-### My Projects
-<table>
+<h3 align='center'>My Projects</h3>
+<table align='center'>
    <tr>
        <th>School Projects</th>
        <th>Personnal Projects</th>
@@ -67,9 +67,9 @@ I am a freshman of high school (2de) and I started programming a year and a half
    </tr>      
 </table>
   
-### Github Stats 💻
+<h3 align='center'> Github Stats 💻</h3>
 <!-- Stats -->
-<p align="center">
+<p align='center'>
   <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
