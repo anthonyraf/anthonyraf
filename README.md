@@ -61,7 +61,6 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?logo=Qt&label=Qt&message=5&style=for-the-badge&color=41CD52"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C Sharp-239120?style=for-the-badge&logo=C+Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github Pages-222222?style=for-the-badge&logo=Github&logoColor=white"/>
