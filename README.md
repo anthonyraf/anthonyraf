@@ -62,12 +62,14 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
   <img src="https://img.shields.io/static/v1?logo=Qt&label=Qt&message=5&style=for-the-badge&color=41CD52"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github Pages-222222?style=for-the-badge&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Circle CI-343434?style=for-the-badge&logo=CircleCI&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual+Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/><br>
+  
 </p>
     
  > PS: These are not my skills but the tools I am currently using and learning.
