@@ -56,7 +56,6 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft+Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
