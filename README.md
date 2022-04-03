@@ -79,7 +79,7 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
 <!-- Contributions Stats -->
 <p align='center'>
   <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00'/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&bg_color=00C2DD00&color=70a4fc&line=70a4fc&point=5d4691"/>
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&bg_color=00C2DD00&color=70a4fc&line=70a4fc&point=5d4691"/>-->
 </p>
 <!-- // -->
 
