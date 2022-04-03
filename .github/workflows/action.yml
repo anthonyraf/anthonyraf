@@ -10,21 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Repositories traffic
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
+          filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: anthonyraf
-          template: classic
-          base: ""
-          config_timezone: Indian/Antananarivo
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          base: anthonyraf
+          plugin_traffic: yes
