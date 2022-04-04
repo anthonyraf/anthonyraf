@@ -24,7 +24,7 @@
 <!-- // -->
 
 
-<h2>About me 💫</h2>
+<h2>💫 About me </h2>
 My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high school (2de) and I started programming a year and a half ago.</p>
 
 <details>
@@ -36,7 +36,7 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
 </details>
 
 <details>
-    <summary><strong>My School Projects 🏫</strong></summary><br>
+    <summary><strong>🏫 My School Projects </strong></summary><br>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>      
@@ -44,14 +44,14 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
   </details>
   
    <details>
-      <summary><strong>My Personnal Projects 📁</strong></summary><br>
+      <summary><strong> 📁 My Personnal Projects </strong></summary><br>
    <p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
    </p>
 </details>
   
-<h2>Languages and tools 💻</h2>
+<h2>💻 Languages and tools </h2>
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -74,13 +74,17 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
     
  > PS: These are not my skills but the tools I am currently using and learning.
   
-<h2> Contributions Stats 📈</h2>
+<h2>📈 Contributions Stats </h2>
 
 <!-- Contributions Stats -->
 <p align='center'>
-  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00C2DD00&fire=7a5bbf'/>
-  <img width='1200'src="https://activity-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&theme=github&bg_color=0d1117&line=7a5bbf&point=628fdb"/>
-  <!--<img width='1200'src="https://anthonyraf-status.herokuapp.com/graph?username=anthonyraf&hide_border=true&bg_color=00C2DD00&color=70a4fc&line=70a4fc&point=5d4691"/>-->
+  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
+  <img width='1200'src="https://activity-graph.herokuapp.com/graph?username=anthonyraf&hide_border=false&bg_color=ffffff&color=161616&line=fc9d26&point=161616"/>
+  <!--<img width='1200'src="https://anthonyraf-status.herokuapp.com/graph?username=anthonyraf&hide_border=true&bg_color=00C2DD00&color=70a4fc&line=70a4fc&point=5d4691"/>
+
+&theme=github&bg_color=0d1117&line=7a5bbf&point=628fdb
+&theme=tokyonight&background=00C2DD00&fire=7a5bbf
+-->
 </p>
 <!-- // -->
 
