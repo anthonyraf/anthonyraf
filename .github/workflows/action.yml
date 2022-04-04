@@ -60,4 +60,12 @@ jobs:
             Polyglot, Developer, Stargazer, Contributor, Deplyer, Member, Maintainer, Worker, Influencer, Inspirer, Explorer, Automator
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
 
