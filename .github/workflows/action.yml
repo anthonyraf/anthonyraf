@@ -28,6 +28,8 @@ jobs:
           config_timezone: Indian/Antananarivo
           plugin_introduction: yes
           plugin_introduction_title: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3
       
       - uses: lowlighter/metrics@latest
         with:
