@@ -3,6 +3,10 @@
 
 <p>I am 15 years old and I live in Madagascar. I mainly use Python and C++. </p>
 
+
+
+<img align='right' height=330px src="https://user-images.githubusercontent.com/100955619/161590478-141ded33-7c70-4c09-a128-d6ad6a5867aa.png">
+
 > ![](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg)
 
 ## 📕 My Projects
