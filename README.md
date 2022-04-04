@@ -61,7 +61,7 @@
   <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=true&date_format=j%20M%5B%20Y%5D'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
-</p>
+</p><br><br>
 
 <!-- // -->
 
