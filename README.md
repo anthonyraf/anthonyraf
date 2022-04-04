@@ -1,24 +1,21 @@
-
-
-<!--
-### My Github Stats 📊
-
--->
+![Metrics](https://metrics.lecoq.io/anthonyraf?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=true&config.timezone=Indian%2FAntananarivo)
 
 ## 📕 My Projects
-### 🏫 School related projects 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>      
-</p>
-
-### 📁 Personnal Projects </strong></summary><br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
 </p>
+
+<details>
+  <summary>⭐Starred repos</summary>
   
-<h2>Languages and tools 💻</h2>
+![Metrics](https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&stars.limit=3&config.timezone=Indian%2FAntananarivo)
+  
+</details>
+
+<h2>💻 Languages and tools</h2>
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -46,8 +43,8 @@
 <!-- Contributions Stats -->
 ## 🔥 Streak stats
 
-<p align='center'>
-  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
+<p align="center">
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
 </p>
 <!-- // -->
 
@@ -56,9 +53,15 @@
 <p>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
+  
 </p>
 
 
+<p>
+  <img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.achievements.compact.svg"/>
+  <img src="https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Indian%2FAntananarivo"/>
+</p>
+  
 ------
 <!-- Views counter -->
 <p align="center">
