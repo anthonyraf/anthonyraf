@@ -1,6 +1,12 @@
-![Metrics](https://metrics.lecoq.io/anthonyraf?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=true&config.timezone=Indian%2FAntananarivo)
+
+### 👋 Hello, I'm Anthony 
+<p>I'm a 15 year old student who is passionate about the technological development in the world and wants to contribute to it</p>
+
+> ![](https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.repositories=0&base.metadata=0&config.timezone=Indian%2FAntananarivo)
 
 ## 📕 My Projects
+
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>
@@ -9,11 +15,19 @@
 </p>
 
 <details>
-  <summary>⭐Starred repos</summary>
+  <summary>⭐Starred topics</summary>
   
-![Metrics](https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&stars.limit=3&config.timezone=Indian%2FAntananarivo)
+![Metrics](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.topics.icons.svg)
   
 </details>
+
+<details>
+  <summary>🏆 Achievements</summary>
+  
+  <img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.achievements.compact.svg"/>
+
+</details>
+
 
 <h2>💻 Languages and tools</h2>
 
@@ -36,35 +50,19 @@
   
 </p>
     
- > PS: These are not my skills but the tools I am currently using and learning.
+ > These are not my skills but the tools I am currently using and learning.
   
 
 
 <!-- Contributions Stats -->
-## 🔥 Streak stats
+## 🔥 Gthub Stats
 
 <p align="center">
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
-</p>
-<!-- // -->
-
-## 📈 Github Stats
-
-<p>
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=true&date_format=j%20M%5B%20Y%5D'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
-  
 </p>
 
-
-<p>
-  <img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.achievements.compact.svg"/>
-  <img src="https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Indian%2FAntananarivo"/>
-</p>
-  
-------
-<!-- Views counter -->
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=anthonyraf&repo=anthonyraf&countColor=%237B1E7A"/>
-</p>
 <!-- // -->
+
+<p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>
