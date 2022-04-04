@@ -5,9 +5,10 @@
 
 
 
-<img align='right' height=330px src="https://user-images.githubusercontent.com/100955619/161590478-141ded33-7c70-4c09-a128-d6ad6a5867aa.png">
 
-> ![](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg)
+>
+> <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp<img height=300px src="https://user-images.githubusercontent.com/100955619/161590478-141ded33-7c70-4c09-a128-d6ad6a5867aa.png"></p>
+
 
 ## 📕 My Projects
 
