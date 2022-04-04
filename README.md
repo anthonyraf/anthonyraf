@@ -1,6 +1,7 @@
 
-### 👋 Hello, I'm Anthony 
-<p>I'm a 15 year old student who is passionate about the technological development in the world and wants to contribute to it</p>
+### 👋 Hello, I'm Anthony
+
+<p>I am 15 years old and I live in Madagascar. I mainly use Python and C++. </p>
 
 > ![](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg)
 
