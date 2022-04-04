@@ -37,3 +37,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_traffic: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
