@@ -1,57 +1,35 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://github.com/anthonyraf">
-    <img width=40% src="https://github.com/anthonyraf/anthonyraf/blob/main/intro-banner.png"/>
-  </a>
+
+### 👋 Hello, I'm Anthony 
+<p>I'm a 15 year old student who is passionate about the technological development in the world and wants to contribute to it</p>
+
+> ![](https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.repositories=0&base.metadata=0&config.timezone=Indian%2FAntananarivo)
+
+## 📕 My Projects
+
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
 </p>
-<!-- // -->
-
-<!-- Bio icons -->
-<p align='center'>
-  <a href='https://www.github.com/anthonyraf'> 
-    <img width='40' height='30' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-  </a> 
-
-  <a href="https://www.hackerrank.com/benjaraf06">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anthonyraf" height="30" width="40"/>
-  </a>
-  
-  <a href="#">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
-  </a><br><br>
-  
-</p>
-<!-- // -->
-
-
-<h2>💫 About me </h2>
-My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high school (2de) and I started programming a year and a half ago.</p>
 
 <details>
-  <summary><strong>My Github Stats 📊<strong></summary>
-  <p>
-    <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
-    <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
-  </p>
+  <summary>⭐Starred topics</summary>
+  
+![Metrics](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.topics.icons.svg)
+  
 </details>
 
 <details>
-    <summary><strong>🏫 My School Projects </strong></summary><br>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>      
-    </p>
-  </details>
+  <summary>🏆 Achievements</summary>
   
-   <details>
-      <summary><strong> 📁 My Personnal Projects </strong></summary><br>
-   <p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
-   </p>
+  <img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.achievements.compact.svg"/>
+
 </details>
-  
-<h2>💻 Languages and tools </h2>
+
+
+<h2>💻 Languages and tools</h2>
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,25 +50,19 @@ My name's Anthony Rafidison and I come from Madagascar. I am a freshman of high 
   
 </p>
     
- > PS: These are not my skills but the tools I am currently using and learning.
+ > These are not my skills but the tools I am currently using and learning.
   
-<h2>📈 Contributions Stats </h2>
+
 
 <!-- Contributions Stats -->
-<p align='center'>
-  <img align="center" src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=false&date_format=j%20M%5B%20Y%5D'/><br><br>
-  <img width='1200'src="https://activity-graph.herokuapp.com/graph?username=anthonyraf&hide_border=false&bg_color=ffffff&color=161616&line=fc9d26&point=161616"/>
-  <!--<img width='1200'src="https://anthonyraf-status.herokuapp.com/graph?username=anthonyraf&hide_border=true&bg_color=00C2DD00&color=70a4fc&line=70a4fc&point=5d4691"/>
+## 🔥 Gthub Stats
 
-&theme=github&bg_color=0d1117&line=7a5bbf&point=628fdb
-&theme=tokyonight&background=00C2DD00&fire=7a5bbf
--->
-</p>
-<!-- // -->
-
-------
-<!-- Views counter -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=anthonyraf&repo=anthonyraf&countColor=%237B1E7A"/>
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=true&date_format=j%20M%5B%20Y%5D'/><br>
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
 </p>
+
 <!-- // -->
+
+<p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>
