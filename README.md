@@ -2,7 +2,7 @@
 ### 👋 Hello, I'm Anthony 
 <p>I'm a 15 year old student who is passionate about the technological development in the world and wants to contribute to it</p>
 
-> ![](https://metrics.lecoq.io/anthonyraf?template=classic&base.header=0&base.repositories=0&base.metadata=0&config.timezone=Indian%2FAntananarivo)
+> ![](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg)
 
 ## 📕 My Projects
 
