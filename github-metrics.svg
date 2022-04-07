@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,7 +71,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">I'm a 15 year old student who is passionate about the technological development in the world and wants to contribute to it</div>
+                        <div class="introduction">I'm a high school student who is passionate about the technological development in the world and wants to contribute to it</div>
                     </section>
                 </div>
             </section>
