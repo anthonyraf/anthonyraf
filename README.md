@@ -2,9 +2,9 @@
 ### 👋 Hello, I'm Anthony
 
 <p>I am 15 years old and I live in Madagascar. I mainly use Python and C++. </p>
-
+<!--
 > <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>
-
+-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20mins-blue)
