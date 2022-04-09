@@ -3,11 +3,13 @@
 <h3 align='center'>A passionate student from Madagascar</h3><br>
 
 
-<img align='right' width=320px src="https://user-images.githubusercontent.com/100955619/162577364-b7658019-befa-459e-9247-fc6239e79685.gif"/>
+
 <p>
-  <a href="https://www.hackerrank.com/anthonyraf"><img src="https://user-images.githubusercontent.com/100955619/162576318-4ff9e356-3204-444c-8cbc-a97c4f752a28.svg" /></a>
-  <a href="https://anthony-rafidison.me"><img src="https://user-images.githubusercontent.com/100955619/162576320-20bc8eb7-2587-4dd4-862e-bca08d90d228.svg" /></a>
+  <img align='right' width=320px src="https://user-images.githubusercontent.com/100955619/162577364-b7658019-befa-459e-9247-fc6239e79685.gif"/>
+  <a href="https://www.hackerrank.com/anthonyraf"><img src="https://user-images.githubusercontent.com/100955619/162576318-4ff9e356-3204-444c-8cbc-a97c4f752a28.svg"/></a>
+  <a href="https://anthony-rafidison.me"><img src="https://user-images.githubusercontent.com/100955619/162576320-20bc8eb7-2587-4dd4-862e-bca08d90d228.svg"/></a>
 </p>
+
 
 - ⛪ I'm currently in High School
 
