@@ -127,8 +127,10 @@ Other                    0 secs              ░░░░░░░░░░░�
   <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=false&date_format=j%20M%5B%20Y%5D'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
-</p><br>
-
+</p>
 <!-- // -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <!-- <p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>-->
