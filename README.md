@@ -1,16 +1,25 @@
 
 <h1 align='center'>👋 Hello, I'm Anthony</h1>
+<h3 align='center'>A passionate student from Madagascar</h3><br>
 
-<p align='center'>
+
+<img align='right' width=350px src="https://user-images.githubusercontent.com/100955619/162577364-b7658019-befa-459e-9247-fc6239e79685.gif"/>
+<p>
   <a href="https://www.hackerrank.com/anthonyraf"><img src="https://user-images.githubusercontent.com/100955619/162576318-4ff9e356-3204-444c-8cbc-a97c4f752a28.svg" /></a>
   <a href="https://anthony-rafidison.me"><img src="https://user-images.githubusercontent.com/100955619/162576320-20bc8eb7-2587-4dd4-862e-bca08d90d228.svg" /></a>
-</p><br>
+</p>
+
+- ⛪ I'm currently in High School
 
 - 🔭 I’m currently working on [**ext-sorter**](https://github.com/anthonyraf/ext-sorter)
-- 🌱 I’m currently learning `C++`, `Qt`
-- 💬 Ask me about `Python`
-- 📫 How to reach me [**benjaraf006@gmail.com**](mailto:benjaraf006@gmail.com)
 
+- 🌱 I’m currently learning **C++**, **Qt**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me [**benjaraf006@gmail.com**](mailto:benjaraf006@gmail.com)<br><br>
+
+  
 <!-- <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>-->
 
 
