@@ -6,6 +6,9 @@
 > <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📕 My Projects
 
 
