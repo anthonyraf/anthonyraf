@@ -1,12 +1,15 @@
 
 <h1 align='center'>👋 Hello, I'm Anthony</h1>
 
-<!--
-🔭 I’m currently working on Buckoid Android App
-🌱 I’m currently learning DevOps
-💬 Ask me about Android , MEARN
-📫 How to reach me
--->
+<p align='center'>
+  <a href="https://www.hackerrank.com/anthonyraf"><img src="https://user-images.githubusercontent.com/100955619/162576318-4ff9e356-3204-444c-8cbc-a97c4f752a28.svg" /></a>
+  <a href="https://anthony-rafidison.me"><img src="https://user-images.githubusercontent.com/100955619/162576320-20bc8eb7-2587-4dd4-862e-bca08d90d228.svg" /></a>
+</p><br>
+
+- 🔭 I’m currently working on [**ext-sorter**](https://github.com/anthonyraf/ext-sorter)
+- 🌱 I’m currently learning `C++`, `Qt`
+- 💬 Ask me about `Python`
+- 📫 How to reach me [**benjaraf006@gmail.com**](mailto:benjaraf006@gmail.com)
 
 <!-- <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>-->
 
