@@ -35,13 +35,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
 </p>
 
+<!--
 <details>
   <summary>⭐Starred topics</summary>
   
 ![Metrics](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.topics.icons.svg)
   
 </details>
-
+-->
 <details>
   <summary>🏆 Achievements</summary>
   
