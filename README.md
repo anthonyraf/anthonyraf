@@ -1,9 +1,14 @@
 
-### 👋 Hello, I'm Anthony
+<h1 align='center'>👋 Hello, I'm Anthony</h1>
 
-<p>I am 15 years old and I live in Madagascar. I mainly use Python and C++. </p>
+<!--
+🔭 I’m currently working on Buckoid Android App
+🌱 I’m currently learning DevOps
+💬 Ask me about Android , MEARN
+📫 How to reach me
+-->
 
-> <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>
+<!-- <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>-->
 
 
 ## 📕 My Projects
