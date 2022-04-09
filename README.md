@@ -2,10 +2,12 @@
 ### 👋 Hello, I'm Anthony
 
 <p>I am 15 years old and I live in Madagascar. I mainly use Python and C++. </p>
-<!--
-> <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>
--->
 
+> <p><img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.traffic.svg"/>&nbsp&nbsp&nbsp&nbsp</p>
+
+<details>
+ <summary><strong>⏲ Wakatime Stats</strong> </summary><br>
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20mins-blue)
 
@@ -43,9 +45,10 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 ```
 
-
  Last Updated on 09/04/2022 07:41:46 UTC
 <!--END_SECTION:waka-->
+  
+  </details>
 
 ## 📕 My Projects
 
@@ -98,14 +101,14 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 
 <!-- Contributions Stats -->
-## 🔥 Gthub Stats
+## 🔥 Github Stats
 
 <p align="center">
   <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=false&date_format=j%20M%5B%20Y%5D'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
-</p><br><br>
+</p><br>
 
 <!-- // -->
 
-<p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>
+<!-- <p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>-->
