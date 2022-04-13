@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="438" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="488" class="">
     <defs>
         <style/>
     </defs>
@@ -151,7 +151,7 @@
                                         <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Ampalibe is a light open source framework for facebook bot messenger.</div>
+                                <div class="field description">Ampalibe is a light Python framework for quickly creating Facebook Messenger bots. It provides a new concept, it manages webhooks, processes data sent by Facebook and provides API Messenger with advanced functions such as payload management, item length, and more.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -201,7 +201,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anmol098/waka-readme-stats</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This GitHub action helps to add cool dev metrics to your github profile Readme</div>
