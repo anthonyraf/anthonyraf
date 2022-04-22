@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=developpement_durable"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=tic-tac-toe"/>
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=clash-royale-api-example"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=anthonyraf"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=ext-sorter"/>
 </p>
 
 <!--
