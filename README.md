@@ -139,7 +139,7 @@ Text                     0 secs              ░░░░░░░░░░░�
   
 <!-- // -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=628fdb&height=100&section=footer#gh-light-mode-only"/>
 </p>
 
 <!-- <p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>-->
