@@ -122,13 +122,17 @@ Batchfile                0 secs              ░░░░░░░░░░░�
 
 
 <!-- Contributions Stats -->
-## 🔥 Github Stats
+## 📈 Github Stats
 
+<details>
+  <summary>🔥 Streak Stats </summary>
 <p align="center">
   <img src='https://github-readme-streak-stats.herokuapp.com?user=anthonyraf&hide_border=false&date_format=j%20M%5B%20Y%5D'/><br>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
 </p>
+  
+ </details>
 <!-- // -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
