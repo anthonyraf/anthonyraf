@@ -78,6 +78,8 @@
  <summary><strong>⏲ Wakatime Stats</strong> </summary><br>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2059%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -114,7 +116,7 @@ Text                     2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/04/2022 07:17:16 UTC
+ Last Updated on 25/04/2022 18:57:00 UTC
 <!--END_SECTION:waka-->
   
   </details>
