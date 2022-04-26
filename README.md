@@ -1,6 +1,6 @@
 
 <h1 align='center'>👋 Hello, I'm Anthony</h1>
-<h3 align='center'>A passionate student from Madagascar</h3><br>
+<h3 align='center'>A student from Madagascar</h3><br>
 
 
 
