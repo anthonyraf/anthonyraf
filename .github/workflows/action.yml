@@ -9,26 +9,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:
+    steps:          
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: anthonyraf
-          template: classic
-          base: header
-          config_timezone: Indian/Antananarivo
-          
-      - uses: lowlighter/metrics@latest
-        with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
