@@ -35,21 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyraf&repo=ext-sorter"/>
 </p>
 
-<!--
-<details>
-  <summary>⭐Starred topics</summary>
-  
-![Metrics](https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.topics.icons.svg)
-  
-</details>
--->
-<details>
-  <summary>🏆 Achievements</summary>
-  
-  <img src="https://github.com/anthonyraf/anthonyraf/blob/main/metrics.plugin.achievements.compact.svg"/>
-
-</details>
-
 
 <h2>💻 Languages and tools</h2>
 
@@ -72,55 +57,6 @@
   
 </p>
     
- > These are not my skills but the tools I am currently using and learning.
-
-<details>
- <summary><strong>⏲ Wakatime Stats</strong> </summary><br>
- 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
-🌆 Daytime    71 commits     █████████░░░░░░░░░░░░░░░░   35.5% 
-🌃 Evening    77 commits     █████████░░░░░░░░░░░░░░░░   38.5% 
-🌙 Night      43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.5%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       38 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
-Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
-Saturday     38 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-Sunday       72 commits     █████████░░░░░░░░░░░░░░░░   36.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 7 mins        ██████████████████████░░░   89.42% 
-C                        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-```
-
-
- Last Updated on 27/04/2022 18:53:10 UTC
-<!--END_SECTION:waka-->
-  
-  </details>
-  
-
-
 <!-- Contributions Stats -->
 ## 📈 Github Stats
  
@@ -137,10 +73,3 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 </p>
 
   
-<!-- // -->
-<!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=628fdb&height=100&section=footer#gh-light-mode-only"/>
-</p>
--->
-<!-- <p align='center'><img src='https://user-images.githubusercontent.com/100955619/161575014-97ee45a9-d688-494e-8d25-ea9f23813f52.png'/></p>-->
