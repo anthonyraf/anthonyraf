@@ -1,5 +1,7 @@
 ## Hi, I'm Anthony, a student 🚀 from Madagascar.
-<br>
+![Github](https://img.shields.io/github/followers/anthonyraf?style=social) ![Twitter Badge](https://img.shields.io/twitter/follow/anthonyraf_?label=%40anthonyraf_) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)
+
+
 
 
 #### Personal Stuffs:
