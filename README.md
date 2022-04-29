@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [**file-exchanger**](https://github.com/anthonyraf/file-exchanger)
 - 🌱 I’m currently learning **C++**, **Qt**
 - 💬 Ask me about **Python**
-- 📫 How to reach me : [**benjaraf006@gmail.com**](mailto:benjaraf006@gmail.com)<br>
+- 📫 How to reach me : [**benjaraf006@gmail.com**](mailto:benjaraf006@gmail.com)<br><br>
 #### Languages and tools:
 
 <p>
