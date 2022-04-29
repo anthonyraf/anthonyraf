@@ -24,7 +24,7 @@
 </p>
 
 #### Github Stats:
-<p> 
+<p align='center'> 
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/anthonyraf/github-stats/blob/master/generated/languages.svg"/>
 </p>
