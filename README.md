@@ -1,8 +1,8 @@
 ## Hi, I'm Anthony, a student 🚀 from Madagascar.
 ![Github](https://img.shields.io/github/followers/anthonyraf?style=social) ![Twitter Badge](https://img.shields.io/twitter/follow/anthonyraf_?label=%40anthonyraf_) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anthonyraf)
-#### Personal Stuffs:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&theme=graywhite&custom_title=Anthony%20Rafidison%20on%20Github">
 
+#### Personal Stuffs:
 - ⛪ I'm currently in High School
 - 🔭 I’m currently working on [**file-exchanger**](https://github.com/anthonyraf/file-exchanger)
 - 🌱 I’m currently learning **C++**, **Qt**
