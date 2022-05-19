@@ -28,5 +28,14 @@
 #### 📊 Monthly coding time
 
 <!--START_SECTION:waka-->
+
+```text
+C++               7 hrs 38 mins   🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛   63.74 %
+Python            2 hrs 57 mins   🟪🟪🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   24.67 %
+CSS               41 mins         🟪🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.76 %
+HTML              15 mins         🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   02.18 %
+Other             10 mins         🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   01.51 %
+```
+
 <!--END_SECTION:waka-->
   
