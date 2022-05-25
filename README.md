@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/anthonyraf/github-stats/master/generated/languages.svg"/>
 </p>
 
-#### 📊 Monthly coding time
+#### Monthly coding time
 
 <!--START_SECTION:waka-->
 
