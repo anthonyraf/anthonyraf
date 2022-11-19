@@ -1,6 +1,6 @@
-### Hi there 👋
 ![cover](./cover_top.png)
-
+## Hi there, I'm [Anthony](https://github.com/anthonyraf) 
+👋
 
 
 <!--
