@@ -1,5 +1,7 @@
 ## Hi there, I'm [Anthony](https://github.com/anthonyraf) 👋
 ![cover](./cover_top.png)
+### ℹ About Me 
+I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like the [Python](https://python.org) language. I am interested in artificial intelligence but also in software development.I also use other languages ​​such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
 
 
