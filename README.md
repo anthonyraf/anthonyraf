@@ -3,6 +3,12 @@
 ![cover-dark-mode](./cover_top_light.png#gh-dark-mode-only)
 ### ℹ About Me 
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like the [Python](https://python.org) language. I am interested in artificial intelligence but also in software development. I also use other languages ​​such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
+
+<a href='mailto:benjaraf006@gmail.com'><img src="contact.png" align='center'></a>
+
+> ** Note **
+> Remember to star or fork the repository if you liked it 🔥
+
 ### 🧰 Languages and Tools:	
 
 <div>
