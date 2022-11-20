@@ -18,10 +18,13 @@ I'm currently a high school student in 11th grade, I am passionate about program
 ### 📊 Some stats
 
 <details open>
-<summary><b>Global stats ⏬</b></summary>
+<summary><b>👇 Global stats</b></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp;[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-[![Anthony's github activity graph](https://activity-graph.herokuapp.com/graph?username=anthonyraf)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details open>
+<summary><b>👇 Contributions Graph</b></summary>
+
+[![Anthony's github activity graph](https://activity-graph.herokuapp.com/graph?username=anthonyraf&bg_color=FFFFFF&hide_border=true&hide_title=true&radius=15&color=4A44BB&line=101431&point=)](https://github.com/ashutosh00710/github-readme-activity-graph)
