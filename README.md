@@ -24,7 +24,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 ### 📊 Some stats
 
 <details open>
-<summary><b>👇 Global stats</b></summary>
+<summary><b>👇 Global stats</b><br><br></summary>
 
 <div align='center'>
 
