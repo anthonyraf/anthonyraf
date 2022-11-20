@@ -6,7 +6,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 <a href='mailto:benjaraf006@gmail.com'><img src="contact.png" align='center'></a>
 
-> ** Note **
+> **Note**
 > Remember to star or fork the repository if you liked it 🔥
 
 ### 🧰 Languages and Tools:	
