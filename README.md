@@ -7,18 +7,27 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 <div align='center'>
 
-[![python](./python_logo.png)](https://python.org)
+<img src='python_logo.png' href='https://python.org' height=60>
+<img src='rust_logo.png' href='https://www.rust-lang.org' height=55>
+<img src='cpp_logo.png' href='http://www.cplusplus.org/' height=60>
+
+<!-- [![python](./python_logo.png)](https://python.org)
 [![rust](./rust_logo.png)](https://www.rust-lang.org/)
 [![c++](./cpp_logo.png)](http://www.cplusplus.org/)
-</div>
+</div> -->
 
 #
 
 <div align="center">
+<img src="./qt_logo.png" height=70 href='https://qt.org'>
+<img src="./vscode_logo.png" height=70 href='https://code.visualstudio.com/'>
+<img src="./jupyter_logo.png" height=70 href='https://jupyter.org/'>
 
-[![qt](./qt_logo.png)](https://qt.org)
+
+
+<!-- [![qt](./qt_logo.png)](https://qt.org)
 [![vscode](./vscode_logo.png)](https://code.visualstudio.com/)
-[![jupyter](./jupyter_logo.png)](https://jupyter.org/)
+[![jupyter](./jupyter_logo.png)](https://jupyter.org/) -->
 
 
 </div>
