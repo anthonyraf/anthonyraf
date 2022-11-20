@@ -17,23 +17,11 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 ### 📊 Some stats
 
-<div>
+<details open>
+<summary><b>Global stats ⏬</b></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp;[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</details>
 
-<!--
-**anthonyraf/anthonyraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anthony's github activity graph](https://activity-graph.herokuapp.com/graph?username=anthonyraf)](https://github.com/ashutosh00710/github-readme-activity-graph)
