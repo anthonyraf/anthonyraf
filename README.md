@@ -16,7 +16,6 @@ I'm currently a high school student in 11th grade, I am passionate about program
 [![c++](./cpp_logo.png)](http://www.cplusplus.org/)
 </div> -->
 
-#
 
 <div align="center">
 <img src="./qt_logo.png" height=70 href='https://qt.org'>
