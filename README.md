@@ -33,7 +33,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 </details>
 
-<details open>
+<details>
 <summary><b>👇 Contributions Graph</b></summary>
 
 [![Anthony's github activity graph](https://activity-graph.herokuapp.com/graph?username=anthonyraf&bg_color=FFFFFF&hide_border=true&hide_title=true&radius=15&color=4A44BB&line=101431&point=3730BD)](https://github.com/ashutosh00710/github-readme-activity-graph)
