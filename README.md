@@ -5,7 +5,7 @@
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like the [Python](https://python.org) language. I am interested in artificial intelligence but also in software development. I also use other languages ​​such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 ### 🧰 Languages and Tools:	
 
-<div align='center'>
+<div>
 
 <img src='python_logo.png' href='https://python.org' height=60>
 <img src='rust_logo.png' href='https://www.rust-lang.org' height=55>
