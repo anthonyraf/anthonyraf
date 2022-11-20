@@ -15,7 +15,13 @@ I'm currently a high school student in 11th grade, I am passionate about program
 <img src="./jupyter_logo.png" height=60 href='https://jupyter.org/'>
 </div>
 
+### 📊 Some stats
 
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **anthonyraf/anthonyraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
