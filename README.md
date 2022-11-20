@@ -7,11 +7,21 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 <div align='center'>
 
-![python](./python_logo.png)
-![rust](./rust_logo.png)
-![c++](./cpp_logo.png)
+[![python](./python_logo.png)](https://python.org)
+[![rust](./rust_logo.png)](https://www.rust-lang.org/)
+[![c++](./cpp_logo.png)](http://www.cplusplus.org/)
+</div>
 
-<div>
+#
+
+<div align="center">
+
+[![qt](./qt_logo.png)](https://qt.org)
+[![vscode](./vscode_logo.png)](https://code.visualstudio.com/)
+[![jupyter](./jupyter_logo.png)](https://jupyter.org/)
+
+
+</div>
 
 
 
