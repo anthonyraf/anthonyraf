@@ -28,7 +28,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 <div align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&hide_rank=false&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 
 </details>
