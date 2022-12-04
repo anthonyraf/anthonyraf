@@ -4,7 +4,8 @@
 ### ℹ About Me 
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like the [Python](https://python.org) language. I am interested in artificial intelligence but also in software development. I also use other languages ​​such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
-<a href='mailto:benjaraf006@gmail.com'><img src="contact.png" align='center'></a>
+<!-- <a href='mailto:benjaraf006@gmail.com'><img src="contact.png" align='center'></a> -->
+<a href="https://www.buymeacoffee.com/anthonyraf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anthonyraf&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 > **Note**
 > Remember to star or fork the repository if you liked it 🔥
