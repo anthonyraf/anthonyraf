@@ -46,5 +46,5 @@ I'm currently a high school student in 11th grade, I am passionate about program
 <details open>
 <summary><b>👇 Contributions Graph</b></summary>
 
-![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&hide_title=true)
+![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)
 
