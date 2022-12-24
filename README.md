@@ -34,17 +34,24 @@ I'm currently a high school student in 11th grade, I am passionate about program
 ### 📊 Some stats
 
 <details open>
-<summary><b>👇 Global stats</b><br><br></summary>
+<summary><b>👇 Global stats</b></summary>
 
 <div align='center'>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!-- Github dark mode -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) &nbsp; [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  
+<!-- Github light mode -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyraf&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) &nbsp; [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyraf&show_icons=true&hide_title=true&hide_rank=false&card_width=400#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  
 <div>
-
+  
 </details>
 
 <details open>
-<summary><b>👇 Contributions Graph</b><br><br></summary>
+<summary><b>👇 Contributions Graph</b></summary>
 
-![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)
+[![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712#gh-dark-mode-only)](https://github.com/anthonyraf#gh-dark-mode-only)
+  
+[![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
 
