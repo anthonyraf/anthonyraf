@@ -1,6 +1,6 @@
 ## Hi there, I'm [Anthony](https://github.com/anthonyraf) 👋
-![cover-light-mode](./cover_top_dark.png#gh-light-mode-only)
-![cover-dark-mode](./cover_top_light.png#gh-dark-mode-only)
+![cover-light-mode](./cover_top_dark.png#gh-dark-mode-only)
+![cover-dark-mode](./cover_top_light.png#gh-light-mode-only)
 ### ℹ About Me 
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like the [Python](https://python.org) language. I am interested in artificial intelligence but also in software development. I also use other languages such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
@@ -43,7 +43,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 </details>
 
-<details>
+<details open>
 <summary><b>👇 Contributions Graph</b></summary>
 
 [![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&bg_color=FFFFFF&hide_border=true&hide_title=true&radius=15&color=4A44BB&line=101431&point=3730BD)](https://github.com/ashutosh00710/github-readme-activity-graph)
