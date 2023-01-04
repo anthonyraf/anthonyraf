@@ -12,24 +12,9 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 ### 🧰 Languages and Tools:	
 
-<div>
+[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,azure,vscode,html,css,js,qt&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
-<!--<img src='python_logo.png' href='https://python.org' height=60>
-<img src='rust_logo.png' href='https://www.rust-lang.org' height=55>
-<img src='cpp_logo.png' href='http://www.cplusplus.org/' height=60>&nbsp;
-<img src="./qt_logo.png" height=60 href='https://qt.org'>&nbsp;
-<img src="./vscode_logo.png" height=60 href='https://code.visualstudio.com/'>&nbsp;
-<img src="./jupyter_logo.png" height=60 href='https://jupyter.org/'>-->
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
-  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,azure,vscode,html,css,js,qt&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-dark-light-only)
 
 ### 📊 Some stats
 
