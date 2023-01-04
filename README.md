@@ -14,7 +14,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 [![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,azure,vscode,html,css,js,qt&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,azure,vscode,html,css,js,qt&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-dark-light-only)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,azure,vscode,html,css,js,qt&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ### 📊 Some stats
 
