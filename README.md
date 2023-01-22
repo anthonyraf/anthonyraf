@@ -1,4 +1,4 @@
-## Hi there, I'm [Anthony](https://github.com/anthonyraf) 👋
+## Hi there, I'm Anthony 👋
 ![cover-light-mode](./cover_top_dark.png#gh-dark-mode-only)
 ![cover-dark-mode](./cover_top_light.png#gh-light-mode-only)
 ### ℹ About Me 
