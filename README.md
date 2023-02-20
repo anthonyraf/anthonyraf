@@ -16,8 +16,6 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 </div>
 
-> **Note**
-> Remember to star or fork the repository if you liked it 🔥
 
 ## 🧰 Languages and Tools:	
 
