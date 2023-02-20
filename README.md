@@ -5,6 +5,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 
 <a href="https://www.buymeacoffee.com/anthonyraf"><img height=40 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anthonyraf&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
+<hr>
 <div align='center'>
 
 <!-- Github dark mode -->
