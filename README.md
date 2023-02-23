@@ -3,7 +3,8 @@
 ## ℹ About Me 
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like [Python](https://python.org). I am interested in software development. I also use other languages such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
-<a href="https://www.buymeacoffee.com/anthonyraf"><img height=40 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anthonyraf&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <hr>
 <div align='center'>
