@@ -4,7 +4,7 @@
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like [Python](https://python.org). I am interested in software development. I also use other languages such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
 <details open>
-<summary>⏲ <b>Wakatime stats</b></summary>
+<summary>⏲ <b>Wakatime stats</b></summary><br>
 <!--START_SECTION:waka-->
 
 ```text
