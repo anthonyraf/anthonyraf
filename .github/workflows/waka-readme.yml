@@ -16,6 +16,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
+          SHOW_TOTAL: false
           LANG_COUNT: 10
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
