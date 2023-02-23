@@ -1,5 +1,7 @@
+[![wakatime](https://wakatime.com/badge/user/3b8511f2-e192-47cc-b876-d39f7fb7a782.svg)](https://wakatime.com/@3b8511f2-e192-47cc-b876-d39f7fb7a782)
 ![cover-light-mode](./cover_top_dark.png#gh-dark-mode-only)
 ![cover-dark-mode](./cover_top_light.png#gh-light-mode-only)
+
 ## ℹ About Me 
 I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like [Python](https://python.org). I am interested in software development. I also use other languages such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
