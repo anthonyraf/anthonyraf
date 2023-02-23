@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/3b8511f2-e192-47cc-b876-d39f7fb7a782.svg)](https://wakatime.com/@3b8511f2-e192-47cc-b876-d39f7fb7a782)
-![cover-light-mode](./cover_top_dark.png#gh-dark-mode-only)
+![cover-light-mode](./cover_top_dark1.png#gh-dark-mode-only)
 ![cover-dark-mode](./cover_top_light.png#gh-light-mode-only)
 
 ## ℹ About Me 
