@@ -1,4 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/3b8511f2-e192-47cc-b876-d39f7fb7a782.svg)](https://wakatime.com/@3b8511f2-e192-47cc-b876-d39f7fb7a782)
+[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anthonyraf)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://hackerrank.com/anthonyraf)
 ![cover-light-mode](./cover_top_dark1.png#gh-dark-mode-only)
 ![cover-dark-mode](./cover_top_light.png#gh-light-mode-only)
 
