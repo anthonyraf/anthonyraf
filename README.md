@@ -11,7 +11,7 @@ I'm currently a high school student in 11th grade, I am passionate about program
 <summary>⏲ <b>Wakatime stats</b></summary><br>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 75 hrs 14 mins
 
 Python            46 hrs 40 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.05 %
