@@ -48,6 +48,6 @@ Makefile          38 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 📊 Github contributions
 
-[![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/anthonyraf#gh-dark-mode-only)
+[![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&area=true&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/anthonyraf#gh-dark-mode-only)
   
 [![Anthony's github activity graph](https://github-graph.herokuapp.com/graph?username=anthonyraf&hide_border=true&radius=15&theme=github-compact&area=true&hide_title=true&line=020712&color=3572A5&point=3572A5)](https://github.com/anthonyraf#gh-light-mode-only)
