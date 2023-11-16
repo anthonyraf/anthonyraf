@@ -5,7 +5,7 @@
 ![cover-dark-mode](./cover_top_light.png#gh-light-mode-only)
 
 ## ℹ About Me 
-I'm currently a high school student in 11th grade, I am passionate about programming and I particularly like [Python](https://python.org). I am interested in software development. I also use other languages such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
+I'm currently a high school student in 12th grade, I am passionate about programming and I particularly like [Python](https://python.org). I am interested in software development. I also use other languages such as [Rust](https://www.rust-lang.org/) and [C++](http://www.cplusplus.org/).
 
 <details open>
 <summary>⏲ <b>Wakatime stats</b></summary><br>
